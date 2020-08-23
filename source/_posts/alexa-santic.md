@@ -4,7 +4,7 @@ date: 2020-08-23 17:00:19
 tags:
 ---
 
-[![Aleksa Šantić](/images/aleksa-santic.jpg 'Aleksa Šantić')](http://www.aleksasantic.com/)
+[![Aleksa Šantić](/poezija/images/aleksa-santic.jpg 'Aleksa Šantić')](http://www.aleksasantic.com/)
 
 **MI ZNAMO SUDBU..**
 
